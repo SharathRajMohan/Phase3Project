@@ -188,7 +188,7 @@
     <br />
     <br />
 
-    <h6 style="text-align:center;color:cornsilk;font-weight:bold">&#64;Project By Saurabh Kawatra</h6>
+    <h6 style="text-align:center;color:cornsilk;font-weight:bold">&#64;Project By Sharath Mohan</h6>
 
     <br />
     <br />
